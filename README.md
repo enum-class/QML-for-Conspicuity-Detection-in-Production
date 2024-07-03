@@ -31,18 +31,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
-
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+ - Email: samaan.dehghan@gmail.com
+ - Discord ID: saman_73951
+ - GitHub ID: enum-class
+ - Nationality: Iran
+ - Current affiliation: -
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
