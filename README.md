@@ -31,6 +31,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _Saman Dehghan_
+ - Full Name: Saman Dehghan
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-AjErDwgp4Ly85a5
  - Email: samaan.dehghan@gmail.com
  - Discord ID: saman_73951
  - GitHub ID: enum-class
